@@ -39,7 +39,7 @@ Use the following credentials to access the admin panel:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/fardeen-codes/Clothing-Store.git
-   cd online-clothing-store
+   cd clothing-store
    ```  
 2. Install dependencies:  
    ```bash
