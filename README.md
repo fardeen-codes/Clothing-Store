@@ -1,6 +1,23 @@
 # 🛍 Online Clothing Store  
 An **Online Clothing Store** is a web application that allows users to browse, search, and purchase clothing items online. This project is built with React, Node.js, Express, MongoDB and features a responsive and user-friendly interface.
 
+## 🚀 Live Demo
+
+### 🛒 User Website
+🔗 https://clothing-store-iota-one.vercel.app
+
+### 🛠 Admin Dashboard
+🔗 https://clothing-store-iw11.vercel.app
+
+---
+
+## 🔑 Admin Login Credentials
+
+Use the following credentials to access the admin panel:
+
+**Email:** `admin@example.com`  
+**Password:** `fardeen123`
+
 ## ✨ Features  
 ✅ **User Authentication** – Sign up, login, and manage profiles  
 ✅ **Product Catalog** – Browse clothing items with images, descriptions, and prices  
