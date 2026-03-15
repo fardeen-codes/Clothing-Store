@@ -13,7 +13,7 @@ An **Online Clothing Store** is a web application that allows users to browse, s
 ## 🛠 Tech Stack  
 - **Frontend:** React, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / MySQL  
+- **Database:** MongoDB  
 - **Authentication:** JWT, Firebase Auth  
 - **Payment Gateway:** Stripe / PayPal  
 - **Hosting:** Vercel, Netlify, or AWS  
@@ -21,7 +21,7 @@ An **Online Clothing Store** is a web application that allows users to browse, s
 ## 🚀 Setup & Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/online-clothing-store.git
+   git clone [https://github.com/your-username/online-clothing-store.git](https://github.com/fardeen-codes/Clothing-Store.git)
    cd online-clothing-store
    ```  
 2. Install dependencies:  
